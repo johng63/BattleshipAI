@@ -1,0 +1,17 @@
+battleship game
+1 carrier with five squares
+one battleship with four squares
+one submarine with three squares
+one destroyer with two squares
+The game is laid out in two grids. the grids are 12 by 12. N
+the top grid shows the current players ships that are randomly placed.
+The bottom grid shows the hits and misses for the other player.
+
+The front end will be created using Vite And typescript
+The back end will be created using express and socket IO
+The back end will keep track of new games
+There are always two players per game
+On the front end when a user starts a new game if there is a Player available on the server he can play with that player or create a new game
+The first player when initiating a game is always player one. the second player is player 2.
+When the player enters the game the back end will randomly place ships on his top grid
+Gameplay Is like standard battleship where one player calls out a 12 by 12 number on the grid And the other player tells them if it is a hit or a miss on their players grid.
