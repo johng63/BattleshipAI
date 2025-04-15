@@ -8,7 +8,7 @@ the top grid shows the current players ships that are randomly placed.
 The bottom grid shows the hits and misses for the other player.
 
 The front end will be created using Vite And typescript
-The back end will be created using express and socket IO
+The back end will be created using express and socket IO as vite server
 The back end will keep track of new games
 There are always two players per game
 On the front end when a user starts a new game if there is a Player available on the server he can play with that player or create a new game
