@@ -1,4 +1,4 @@
-battleship game
+BattleshipAI game
 1 carrier with five squares
 one battleship with four squares
 one submarine with three squares
